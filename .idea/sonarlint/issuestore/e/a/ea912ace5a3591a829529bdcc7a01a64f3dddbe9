@@ -1,0 +1,11 @@
+
+I
+java:S1612",Replace this lambda with a method reference.(Ÿ­Ò8½ş¯¥‰/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(°Èÿøÿÿÿÿ8—ĞÁúˆ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Óğô¹8—ÑÂ¥‰/
+M
+java:S1128"0Remove this unused import 'java.io.InputStream'.(¹»º8©âËúˆ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Û µÅıÿÿÿÿ8ÑÊ²¥‰/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”ÌÔ
+I
+java:S1612",Replace this lambda with a method reference.(“«È×8ÑÊ²¥‰/

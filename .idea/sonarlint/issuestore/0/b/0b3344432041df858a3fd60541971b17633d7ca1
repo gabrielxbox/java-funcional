@@ -1,0 +1,9 @@
+
+}
+java:S4276
+"[Refactor this code to use the more specialised Functional Interface 'ToIntFunction<String>'(Ğç«üÿÿÿÿ8Õ€ÁÍˆ/
+}
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(Æ£×°ûÿÿÿÿ8‹ÉÁÌˆ/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£ê£Üúÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ï á¦8½‘ÂÌˆ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(İä¹Á8¯ŸÂÍˆ/

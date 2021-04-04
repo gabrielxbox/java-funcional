@@ -1,0 +1,14 @@
+
+P
+java:S1128"3Remove this unused import 'java.net.URLConnection'.(š¿šó8²êêË‰/
+‰
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8í“¼Í‰/
+E	java:S108")Either remove or fill this block of code.(”ı¾8¥·ÕÌ‰/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ú­Ñ¬
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(·¿ÿËùÿÿÿÿ8Ëº¬Í‰/
+j
+java:S5361"HReplace this call to "replaceAll()" by a call to the "replace()" method.(·¿ÿËùÿÿÿÿ8Ëº¬Í‰/
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(¹Å†¯üÿÿÿÿ8şÖ€Ì‰/
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(Äêğùÿÿÿÿ8Æ¬—Ì‰/
+`
+java:S1144">Remove this unused private "connectAndPrintUrlJavaOlx" method.(ˆ°ùÿÿÿÿ8ï»»Í‰/

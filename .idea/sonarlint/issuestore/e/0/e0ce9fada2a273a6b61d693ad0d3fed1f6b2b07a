@@ -1,0 +1,27 @@
+
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(º™Ú78Çºùˆ/
+m	java:S117u"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼º§8ïÚ¼ùˆ/
+m	java:S117n"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“’ÿ©8ïÚ¼ùˆ/
+]	java:S125"<This block of commented-out lines of code should be removed.(åÇÑµúÿÿÿÿ8Çºùˆ/
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(´¨Ï«8Çºùˆ/
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(ĞÙ˜ª8Çºùˆ/
+]	java:S1257"<This block of commented-out lines of code should be removed.(¹¤ğÀÿÿÿÿÿ8Çºùˆ/
+{
+java:S2293D"YReplace the type specification in this constructor call with the diamond operator ("<>").(ˆê…‘ıÿÿÿÿ8ïÚ¼ùˆ/
+U	java:S106o"9Replace this use of System.out or System.err by a logger.(Ìÿ…º8ïÚ¼ùˆ/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”ÌÔ
+c
+java:S2142&"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Çºùˆ/
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(»–‰‹8Çºùˆ/
+Y
+java:S1128"7Remove this unused import 'java.util.stream.Collector'.(ß‹ÎÓøÿÿÿÿ8¥‹¶ùˆ/
+c
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Çºùˆ/
+U	java:S106v"9Replace this use of System.out or System.err by a logger.(¡Ï²»8ïÚ¼ùˆ/
+T	java:S106h"9Replace this use of System.out or System.err by a logger.(…Ì¯8ïÚ¼ùˆ/
+r	java:S117g"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒıŸøüÿÿÿÿ8ïÚ¼ùˆ/
+f
+java:S2147("DCombine this catch with the one at line 38, which has the same body.(åşŒóùÿÿÿÿ8Çºùˆ/
+R
+java:S1610T"6Convert the abstract class "Comodo" into an interface.(æïï8ïÚ¼ùˆ/

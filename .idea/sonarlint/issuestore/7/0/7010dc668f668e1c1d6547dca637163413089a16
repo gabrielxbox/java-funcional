@@ -1,0 +1,20 @@
+
+]	java:S125"<This block of commented-out lines of code should be removed.(¶ ç¾ÿÿÿÿÿ8Ò˜óˆ/
+c
+java:S2142&"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Ñ›óˆ/
+c
+java:S2142e"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Ùİµòˆ/
+c
+java:S2142@"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8‡±½óˆ/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”ÌÔ
+X	java:S125"<This block of commented-out lines of code should be removed.(Æ´‹·8ã¬íòˆ/
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(ßŒÿûÿÿÿÿ8‚œâóˆ/
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(¦İİ”8Ä¬ˆòˆ/
+Z	java:S106U"9Replace this use of System.out or System.err by a logger.(Û¯ûŠüÿÿÿÿ8¹ŠÆòˆ/
+Z	java:S106G"9Replace this use of System.out or System.err by a logger.(·•ëöşÿÿÿÿ8ÛÔ·óˆ/
+Z	java:S106r"9Replace this use of System.out or System.err by a logger.(å«’öÿÿÿÿÿ8ûÑÅòˆ/
+Z	java:S106d"9Replace this use of System.out or System.err by a logger.(ñ·õ¯şÿÿÿÿ8áÓîòˆ/
+c
+java:S2142V"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ÓÂ²òˆ/
+c
+java:S2142s"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8×’ïòˆ/

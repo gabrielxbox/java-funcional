@@ -1,0 +1,50 @@
+
+Z	java:S106f"9Replace this use of System.out or System.err by a logger.(‡úüÿÿÿÿ8½†°ñ‰/
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8ÇÉ‘ï‰/
+T
+java:S1481G"2Remove this unused "imageResponse" local variable.(üşñÀüÿÿÿÿ8¡‘Ïğ‰/
+b	java:S112$"FDefine and throw a dedicated exception instead of using a generic one.(¹›¯Ş8÷±ğ‰/
+c
+java:S2142W"FEither re-interrupt this method or rethrow the "InterruptedException".(üŸ´Â8ÌÖğ‰/
+K
+java:S1128")Remove this unused import 'java.net.URL'.(ñìÁ„üÿÿÿÿ8ÇÉ‘ï‰/
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(÷Æªèşÿÿÿÿ8ĞÉğ‰/
+Z	java:S106X"9Replace this use of System.out or System.err by a logger.(§×ŸŞüÿÿÿÿ8‰ÛÖğ‰/
+Z	java:S106u"9Replace this use of System.out or System.err by a logger.(íü”®ıÿÿÿÿ8½†°ñ‰/
+a
+java:S1144¦">Remove this unused private "connectAndPrintUrlJavaOlx" method.(æ «Ñøÿÿÿÿ8²Ëíğ‰/
+Z	java:S106x"9Replace this use of System.out or System.err by a logger.(†–£„ıÿÿÿÿ8½†°ñ‰/
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(íü”®ıÿÿÿÿ8á³¯ğ‰/
+g	java:S112e"FDefine and throw a dedicated exception instead of using a generic one.(ğ¶¶¯ÿÿÿÿÿ8½†°ñ‰/
+Z	java:S106K"9Replace this use of System.out or System.err by a logger.(»«„ûüÿÿÿÿ8ƒæĞğ‰/
+S
+java:S1128"6Remove this unused import 'java.io.InputStreamReader'.(ãˆÎÉ8ÇÉ‘ï‰/
+P
+java:S1128"3Remove this unused import 'java.io.BufferedReader'.(€é²Å8ÇÉ‘ï‰/
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(½¹ãÚúÿÿÿÿ8á³¯ğ‰/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ï¢Ûòşÿÿÿÿ
+J
+java:S1604"(Make this anonymous inner class a lambda(ø±¶˜úÿÿÿÿ8Üê‰ğ‰/
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(†–£„ıÿÿÿÿ8á³¯ğ‰/
+Z	java:S106v"9Replace this use of System.out or System.err by a logger.(½¹ãÚúÿÿÿÿ8½†°ñ‰/
+V	java:S106’"9Replace this use of System.out or System.err by a logger.(–¨êÔ8½†°ñ‰/
+V	java:S106²"9Replace this use of System.out or System.err by a logger.(¢”õË8Á‡®ï‰/
+[	java:S106´"9Replace this use of System.out or System.err by a logger.(âìÍáÿÿÿÿÿ8¢å±ï‰/
+c
+java:S2142J"FEither re-interrupt this method or rethrow the "InterruptedException".(ò¶È8¸ÜÏğ‰/
+[	java:S106"9Replace this use of System.out or System.err by a logger.(¯øë—ıÿÿÿÿ8½†°ñ‰/
+U	java:S106Q"9Replace this use of System.out or System.err by a logger.(–¨êÔ8­œÒğ‰/
+d
+java:S2142‹"FEither re-interrupt this method or rethrow the "InterruptedException".(ò¶È8½†°ñ‰/
+[	java:S106Œ"9Replace this use of System.out or System.err by a logger.(»«„ûüÿÿÿÿ8½†°ñ‰/
+U
+java:S1481ˆ"2Remove this unused "imageResponse" local variable.(üşñÀüÿÿÿÿ8½†°ñ‰/
+[	java:S106™"9Replace this use of System.out or System.err by a logger.(§×ŸŞüÿÿÿÿ8½†°ñ‰/
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ï½—:8¡˜ÿï‰/
+d
+java:S2142˜"FEither re-interrupt this method or rethrow the "InterruptedException".(üŸ´Â8½†°ñ‰/
+Z	java:S106]"9Replace this use of System.out or System.err by a logger.(¯øë—ıÿÿÿÿ8Ò¾Úğ‰/
+[	java:S106°"9Replace this use of System.out or System.err by a logger.(‚ï Œşÿÿÿÿ8÷‹ªï‰/
+\
+java:S1144$"?Remove this unused private "cconectAkamaiHttp11Cliente" method.(¹›¯Ş8§³ñ‰/
